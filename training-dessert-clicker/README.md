@@ -1,7 +1,10 @@
 ## Dessert Clicker app
+
 =====================
-Student's name: Ly Dang Trieu
-Student's ID: 22110080
+
+- Student's name: Ly Dang Trieu
+
+- Student's ID: 22110080
 
 Introduction
 ------------
